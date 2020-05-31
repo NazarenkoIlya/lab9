@@ -1,8 +1,8 @@
-include "sdt.h"
+#include "sdt.h"
+using namespace std;
 int main()
 {
 	int a,b;
-	cout<<"Input x and y:";
+	cout<<"Input A and B:";
 	cin>>a>>b;
-	return 0;
 }
